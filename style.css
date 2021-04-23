@@ -1,0 +1,13 @@
+img {
+    width:200px;
+    height:160px;
+    margin: 5px 100px 5px 250px;
+}
+
+#integrantes{
+    margin-left: 250px;
+}
+
+.boton-volver{
+    text-align:right;
+}
